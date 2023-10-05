@@ -1308,6 +1308,14 @@ position: relative;
     transition: 0.8s;
     border-color: black ;
 }
+.k {
+    position: relative;
+    font-size: 40px;
+    top: -60px;
+    left: 55px;
+    font-weight: bold;
+
+}
 /* end stats */
 /* start discount  */
 .discount {
